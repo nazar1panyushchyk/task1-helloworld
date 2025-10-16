@@ -1,0 +1,14 @@
+E:\courses\CSHARP-test\bin\Debug\net9.0\CSHARP-test.exe
+E:\courses\CSHARP-test\bin\Debug\net9.0\CSHARP-test.deps.json
+E:\courses\CSHARP-test\bin\Debug\net9.0\CSHARP-test.runtimeconfig.json
+E:\courses\CSHARP-test\bin\Debug\net9.0\CSHARP-test.dll
+E:\courses\CSHARP-test\bin\Debug\net9.0\CSHARP-test.pdb
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.AssemblyInfoInputs.cache
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.AssemblyInfo.cs
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.csproj.CoreCompileInputs.cache
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.dll
+E:\courses\CSHARP-test\obj\Debug\net9.0\refint\CSHARP-test.dll
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.pdb
+E:\courses\CSHARP-test\obj\Debug\net9.0\CSHARP-test.genruntimeconfig.cache
+E:\courses\CSHARP-test\obj\Debug\net9.0\ref\CSHARP-test.dll
